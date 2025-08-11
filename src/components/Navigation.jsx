@@ -47,7 +47,7 @@ const Navigation = () => {
                     layoutId="activeIndicator"
                     initial={false}
                     transition={{ type: "spring", stiffness: 500, damping: 30 }}
-                    style={{ x: '-50%', left: '50%' }}
+                    style={{ left: '50%', transform: 'translateX(-50%)' }}
                   />
                 )}
               </motion.div>
@@ -71,7 +71,7 @@ const Navigation = () => {
                   layoutId="activeIndicator"
                   initial={false}
                   transition={{ type: "spring", stiffness: 500, damping: 30 }}
-                  style={{ x: '-50%', left: '50%' }}
+                  style={{ left: '50%', transform: 'translateX(-50%)' }}
                 />
               )}
             </motion.div>
