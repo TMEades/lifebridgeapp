@@ -1,0 +1,13 @@
+## Pages
+- [AI Wellness Chatbot - MidLife Wellness](/chatbot): Engage with our 24/7 AI-powered chatbot for empathetic support, coping skills, and a listening ear.
+- [Community - MidLife Wellness](/community): Connect with peers facing similar midlife challenges. Join support groups, share experiences, and find community in your wellness journey.
+- [Disclaimer - LifeBridge](/disclaimer): Important disclaimer regarding the use of the LifeBridge platform for peer support and wellness information.
+- [MidLife Wellness - Your Journey to Emotional Well-being](/home): Join thousands in our community-driven platform for midlife emotional wellness. Get support, tools, and professional help for your unique challenges.
+- [My Profile - LifeBridge](/profile): Manage your wellness profile, track progress, view achievements, and customize your LifeBridge experience.
+- [Privacy Policy - LifeBridge](/privacypolicy): LifeBridge Privacy Policy explaining how we collect, use, and protect your personal information.
+- [Professional Therapy - MidLife Wellness](/therapy): Access licensed therapists specializing in midlife issues. Book individual or group sessions with crisis intervention support available 24/7.
+- [Sign In - LifeBridge](/signin): Sign in to your LifeBridge account.
+- [Sign Up - LifeBridge](/signup): Create an account to join the LifeBridge community.
+- [Social Journaling - MidLife Wellness](/journal): Reflect and share your midlife journey through community-based journaling. Daily prompts and peer support for emotional wellness.
+- [Terms of Service - LifeBridge](/termsofservice): LifeBridge Terms of Service outlining the rules and guidelines for using the platform.
+- [Wellness Tools - LifeBridge](/wellnesstools): Personalized emotional wellness tools including mood tracking, CBT exercises, and mindfulness sessions tailored for midlife challenges.
